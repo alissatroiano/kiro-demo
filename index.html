@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Spooky Gallery</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>Spooky Gallery</h1>
+    <div class="controls" role="group" aria-label="Game controls">
+      <button type="button" id="sound-toggle" aria-pressed="false">Sound: off</button>
+      <button type="button" id="safe-toggle" aria-pressed="false">Safe mode: off</button>
+      <button type="button" id="restart">Restart game</button>
+    </div>
+  </header>
+
+  <div id="error-banner" role="alert" hidden></div>
+
+  <main>
+    <ul id="gallery"></ul>
+
+    <section id="quiz-panel" aria-label="Quiz" hidden></section>
+
+    <section id="win-screen" hidden>
+      <h2 tabindex="-1">You escaped!</h2>
+      <p>You answered every question and found your way out of the gallery.</p>
+      <button type="button" id="win-restart" class="restart-button">Restart game</button>
+    </section>
+  </main>
+
+  <div id="live-region" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></div>
+  <noscript>
+    <p class="noscript-message">Spooky Gallery needs JavaScript to run. Please enable it and reload the page.</p>
+  </noscript>
+
+  <script defer src="js/artworks.js"></script>
+  <script defer src="js/core.js"></script>
+  <script defer src="js/settings.js"></script>
+  <script defer src="js/progress.js"></script>
+  <script defer src="js/gallery.js"></script>
+  <script defer src="js/scare-controller.js"></script>
+  <script defer src="js/quiz.js"></script>
+  <script defer src="js/main.js"></script>
+</body>
+</html>
