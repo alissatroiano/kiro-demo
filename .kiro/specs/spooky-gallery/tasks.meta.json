@@ -1,0 +1,475 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create project structure and test tooling": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548586695
+      },
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548594948
+      },
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548645793
+      }
+    ],
+    "1.2 Create bundled artwork, audio, and manifest with quiz questions": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548587007
+      },
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548595481
+      },
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548646325
+      }
+    ],
+    "2.1 Implement rendering helpers, card state info, and scare assignment in `js/core.js`": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548587480
+      },
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548649775
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548726917
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548733177
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548789411
+      }
+    ],
+    "2.4 Implement effect resolution and audio helpers in `js/core.js`": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548587614
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548727060
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548794560
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548814370
+      }
+    ],
+    "2.7 Implement flash limiter, scheduler, and gesture tracker in `js/core.js`": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548587776
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548727191
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548816676
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548842853
+      }
+    ],
+    "2.11 Implement settings helpers in `js/core.js`": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548587924
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548727321
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548845000
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548863970
+      }
+    ],
+    "3. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548588073
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548727464
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549140502
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549189330
+      }
+    ],
+    "4.1 Implement manifest validation, answer checking, and quiz markup in `js/core.js`": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548588229
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548727583
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548867035
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548891168
+      }
+    ],
+    "4.4 Implement game state logic in `js/core.js`": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548588398
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548727701
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548893276
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548914136
+      }
+    ],
+    "4.7 Implement progress persistence helpers in `js/core.js`": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548588532
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548727893
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548916276
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548936778
+      }
+    ],
+    "4.10 Implement scare gating, announcements, and quiz feedback helpers in `js/core.js`": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548588648
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548728028
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548939158
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548966240
+      }
+    ],
+    "5. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548588759
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548728166
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549191573
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549224666
+      }
+    ],
+    "6.1 Implement `js/settings.js`": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548588879
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548728307
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548968638
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549037366
+      }
+    ],
+    "6.2 Implement `js/progress.js`": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548588983
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548728458
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548969335
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549037989
+      }
+    ],
+    "6.4 Implement `js/gallery.js`": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548589110
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548728654
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548969986
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549038606
+      }
+    ],
+    "6.5 Implement `js/scare-controller.js` with requestScare and gating": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548589230
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548728778
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548970582
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549039216
+      }
+    ],
+    "7.1 Implement `js/quiz.js`": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548589343
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548728904
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549041646
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549094417
+      }
+    ],
+    "7.3 Create `index.html` and `css/styles.css`": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548589458
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548729039
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549042165
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549094847
+      }
+    ],
+    "7.4 Implement `js/main.js` and wire everything together": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548589591
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548729231
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549096851
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549136846
+      }
+    ],
+    "8. Final checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548589703
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548729386
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549227069
+      },
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549252501
+      }
+    ],
+    "1. Project scaffolding and assets": [
+      {
+        "executionId": "e6c6566a-78f3-407e-8be6-908c89c6ba3d",
+        "chatSessionId": "sess_9576c0e9-fb4f-4514-9d2c-993083e65875",
+        "timestamp": 1794548646580
+      }
+    ],
+    "2. Implement pure core logic: gallery and scare pipeline": [
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548864107
+      }
+    ],
+    "4. Implement pure core logic: escape quiz game": [
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794548966404
+      }
+    ],
+    "6. Implement DOM layer": [
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549039355
+      }
+    ],
+    "7. Quiz UI, page shell, styling, and wiring": [
+      {
+        "executionId": "26cf59f8-086b-4dc2-8331-68d2fc28d71b",
+        "chatSessionId": "sess_45aff326-a3ce-44da-aab9-d5a11ceaf739",
+        "timestamp": 1794549137019
+      }
+    ]
+  }
+}
